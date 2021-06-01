@@ -154,13 +154,13 @@ Train
 
 Document type: printed
 
-Nr. of Words: 150˙137
+Nr. of Words: 61˙938
 
-Nr. of Lines: 16˙816
+Nr. of Lines: 7˙675
 
-CER on Train Set: 0.45%
+CER on Train Set: 0.21%
 
-CER on Validation Set: 0.92%
+CER on Validation Set: 1.07%
 ***
 ## How to simply use SpanishRedonda_XVI-XVII_extended HTR+ model
 
