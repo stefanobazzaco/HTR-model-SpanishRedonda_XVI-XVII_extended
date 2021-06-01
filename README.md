@@ -50,7 +50,7 @@ resp. María Jesús Lacarra
 
 https://comedic.unizar.es/
 
-**Progetto di eccellenza: Le Digital Humanities applicate alle lingue e letterature straniere - Università degli Studi di Verona**
+**Progetto di Eccellenza: Le Digital Humanities applicate alle lingue e letterature straniere - Università degli Studi di Verona**
 
 resp. Paolo Frassi
 
