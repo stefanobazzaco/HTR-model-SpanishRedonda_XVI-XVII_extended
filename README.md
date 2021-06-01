@@ -1,5 +1,5 @@
 # HTR-model-SpanishRedonda_XVI-XVII_extended (v. 1.0.0)
-The following Transkribus platform (READ Coop) HTR+ model is available on Zenodo: https://zenodo.org/record/4889218#.YLX6xKgzY2w
+The following HTR model is available inside Transkribus platform (public model section). The HTR model dataset is available on Zenodo: https://zenodo.org/record/4889218#.YLX6xKgzY2w
 ***
 ## General information
 
