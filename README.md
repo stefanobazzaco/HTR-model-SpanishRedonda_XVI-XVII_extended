@@ -96,7 +96,7 @@ tyronian sign: transcribed as &
 
 Extract HTR_TrainSet_SpanishRedonda_XVI-XVII_extended zip folder
 
-Extract HTR_TrainSet_SpanishRedonda_XVI-XVII_extended zip folder
+Extract HTR_ValidationSet_SpanishRedonda_XVI-XVII_extended zip folder
 ***
 **Inside Transkribus platform:**
 
@@ -177,7 +177,7 @@ just create your own Ground Truth pages following the transcription criteria we 
 share that content with Dr. Stefano Bazzaco, e-mail: stefano.bazzaco.1@gmail.com
 ***
 ## Copyright statement
-The SpanishRedonda_XVI-XVII_extended model belongs to the authors. Its usage is freely Open Access, but you have to give appropriate credits to authors and publisher.
+The SpanishRedonda_XVI-XVII_extended model belongs to the authors. Its usage is freely Open Access, but for distribution you have to give appropriate credits to authors and publisher.
 
 The SpanishRedonda_XVI-XVII_extended dataset belongs to the author. Its  remixing, changing and distribution for commercial use is not possible without authors
 and publisher acceptance, as stated by the Creative Commons License CC BY-NC-ND 4.0
