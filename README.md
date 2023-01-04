@@ -29,6 +29,14 @@ Manuel Garrobo Peral
 Mónica Martín Molares
 
 Carlota Cristina Fernández Travieso
+
+Giulia Tomasi
+
+Alessia Fichera
+
+Soledad Castaño Santos
+
+Almudena Izquierdo Andreu
 ***
 ### Projects:
 
@@ -77,6 +85,14 @@ The dataset is based on the following Spanish books:
 - *Segunda parte de la relacion diaria del itinerario [...] el Excelentissimo Don Luis Mendez de Haro y Guzman*, Anónimo (Sevilla, Juan Gómez de Blas, 1660)
 - *Relación verdadera, en que se da quenta de todo el daño [...] natural de la misma ciudad de Seuilla*, Juan Beltran de la Cueva (Lima, Gerónimo Contreras, 1626)
 - *Relacion del nacimiento del nueuo Infante y de la muerte de la Reyna [...]*, Andres de Claramonte (Cuenca, Salvador Viader, 1612)
+- *Las sergas de Esplandián*, Garci Rodríguez de Montalvo (Zaragoza, Simon de Portonariis, 1587)
+- *Las sergas de Esplandián*, Garci Rodríguez de Montalvo (Alcalá de Henares, Heirs of Iuan Gracián, 1588)
+- *Libro intitulado el Cortesano*, Luis Milán (Valencia, Ioan de Arcos, 1561) [source: British Library]
+- *Libro intitulado el Cortesano*, Luis Milán (Valencia, Ioan de Arcos, 1561) [source: BNE]
+- *Chronica Del Famoso Cavallero Cid Rvy Diez Campeador* (Burgos, Phillipe de Junta y Juan Baptista Varesio, 1593)
+- *El verdadero sucesso de la famosa batalla de Roncesualles [...]*, Francisco de Villena (Valencia, Ioan de Mey Flandro, 1555)
+- *El verdadero sucesso de la famosa batalla de Roncesualles [...]*, Francisco de Villena (Toledo, Iuan Rodriguez, 1583)
+
 ***
 ### Transcription criteria:
 
@@ -158,13 +174,13 @@ Train
 
 Document type: printed
 
-Nr. of Words: 61˙938
+Nr. of Words: 119˙856
 
-Nr. of Lines: 7˙675
+Nr. of Lines: 15˙897
 
-CER on Train Set: 0.21%
+CER on Train Set: 0.80%
 
-CER on Validation Set: 1.07%
+CER on Validation Set: 1.30%
 ***
 ## How to simply use SpanishRedonda_XVI-XVII_extended HTR+ model
 
